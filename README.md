@@ -21,12 +21,14 @@
 ### Find me？                                                                                                                                                                                                                                                                                                                                                                                                                          
 
 <div><img align="left" alt="GIF" src="asset/113762317.gif" width="200" height="100%" /></div>
+<div><img align="right" src="https://count.getloli.com/get/@:Ruafafa?theme=rule34" width="400" height="100%" /></div>
 
-| <a href="https://www.fomal.cc" ><img height="22" width="22" src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/favicon.ico">Ruafafa-博客</a>  |
+
+| <a href="https://ruafafa.github.io/" ><img height="22" width="22" src="https://ruafafa-filecloud.oss-cn-beijing.aliyuncs.com/favicon.png">Ruafafa-博客</a>  |
 | :----------------------------------------------------------- |
-| <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/favicon.ico">Bilibili-哔哩哔哩</a>  |
-| <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/favicon.ico">LeetCode-力扣</a> |
-| <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/www-favicon.ico">Nowcoder-牛客</a> |
+| <a href="https://space.bilibili.com/220757832"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico">Bilibili-哔哩哔哩</a>  |
+| <a href="https://leetcode.cn/u/Ruafafa/"><img height="22" width="22" src="https://ruafafa-photobed.oss-cn-beijing.aliyuncs.com/favicon.ico">LeetCode-力扣</a> |
+| <a href="https://www.nowcoder.com/users/671468948"><img height="22" width="22" src="https://www.nowcoder.com/favicon.ico">Nowcoder-牛客</a> |
 | <a href="https://steamcommunity.com/profiles/76561198974921306/"><img height="22" width="22" src="https://steamcommunity.com/favicon.ico">Steam-Ruafafa</a> |
 
 
