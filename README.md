@@ -6,7 +6,7 @@
 
 ### About me
 
-<div><img align="right" alt="GIF" src="asset/112220559.gif" width="200" height="100%" /></div>
+<div><img align="right" alt="GIF" src="asset/typing.gif" width="200" height="100%" /></div>
 
 | <p align="left">🏫 <a href="https://www.tyut.edu.cn/" style="text-decoration: none;">TYUT</a>• Software engineering</p>  |
 | --------------------------------------------------------- |
