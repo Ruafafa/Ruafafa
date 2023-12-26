@@ -22,10 +22,10 @@
 
 <div><img align="left" alt="GIF" src="asset/113762317.gif" width="200" height="100%"  left="100px"/></div>
 <div>
-<p align="right"><a href="https://ruafafa.github.io/" >HomePage ——> Ruafafa  |<img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>  ●</p>
-<p align="right"><a href="https://space.bilibili.com/220757832">Space ——> Bilibili  |<img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>  ●</p>
-<p align="right"><a href="https://leetcode.cn/u/fomalhaut1998/">Space ——> LeetCode  |<img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>  ●</p>
-<p align="right"><a href="https://leetcode.cn/u/fomalhaut1998/">Space ——> Nowcoder  |<img height="22" width="22" src="https://static.nowcoder.com/fe/file/images/nowpick/web/www-favicon.ico"></a>  ●</p>
+<p align="right"><a href="https://ruafafa.github.io/" >Ruafafa  |<img height="22" width="22" src="https://www.fomal.cc/favicon.ico"></a>  ●</p>
+<p align="right"><a href="https://space.bilibili.com/220757832">Bilibili  |<img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>  ●</p>
+<p align="right"><a href="https://leetcode.cn/u/fomalhaut1998/">LeetCode  |<img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>  ●</p>
+<p align="right"><a href="https://leetcode.cn/u/fomalhaut1998/">Nowcoder  |<img height="22" width="22" src="https://static.nowcoder.com/fe/file/images/nowpick/web/www-favicon.ico"></a>  ●</p>
 <p align="right"><a href="https://steamcommunity.com/profiles/76561198974921306/">Space ——> Steam-Ruafafa  |<img height="22" width="22" src="https://steamcommunity.com/favicon.ico"></a>  ●</p>
 </div>
 
